@@ -1,5 +1,17 @@
 # Spymap
 Web vulnerability scanner
 
-|XSS|----|
+|Spymap|vulns|
+|----|----|
+|XSS| ✔️ |
 |---|----|
+|Sql injection| ✔️ |
+|Cross-site request forgery| ✔️ |
+|Broken Authentication| ✔️ |
+
+
+-----
+* Host name
+* Banner grabbing
+* Platform: Windows, Mac OS, Linux
+*  
